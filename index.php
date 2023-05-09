@@ -19,6 +19,8 @@ require_once('vendor/autoload.php');
 $f3 = Base::instance();
 
 $f3->route('GET /', function() {
+    echo '<h1>Welcome to Fat-Free Framework 🥸</h1>';
+
     // Display a view page
     $view = new Template();
     echo $view->render('views/home.html');
