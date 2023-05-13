@@ -1,2 +1,4 @@
 # week6
-Sayedjalalsadat.9@gmail.com
+FlavorFinder.LogoV2:https://www.logoai.com/logo/810007
+
+FlavorFinder.LogoV2: https://www.logoai.com/logo/809990
